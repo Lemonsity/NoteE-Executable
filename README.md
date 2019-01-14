@@ -62,7 +62,7 @@ There is a lot of feature in this app
     
 - Reminder
     - Every time the app starts, there will be a popup telling you how many notes displaying the amount of note already due and is not marked done
-    - The notes are due and not not done have a bell in front of it's name
+    - Notes due but not done have a bell in front of it's name
     
 - Colour Code
     - Note selected and editing is colour coded with __Yellow__
