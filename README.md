@@ -1,6 +1,6 @@
-#NoteE User Manual
+# NoteE User Manual
 
-##Setup
+## Setup
 Thank you for downloading NoteE.
 The executable .jar file can be found on GitHUb under the link:
 >https://github.com/Lemonsity/NoteE-Executable
@@ -14,7 +14,7 @@ After extracting the .zip file, please make sure the following stays in the same
 
 Double click `NoteE.jar` to start the app
 
-##Interface
+## Interface
 - Top bar
     - From left to right, the top bar contains:
         - New Note
@@ -29,7 +29,7 @@ Double click `NoteE.jar` to start the app
 - Right side
     - The content of a note selected is shown and edited using the *Text Area* to the right of the interface
 
-##Features
+## Features
 There is a lot of feature in this app
 
 - Add note
