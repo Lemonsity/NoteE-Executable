@@ -44,6 +44,7 @@
     -fx-border-color: #505050;
     -fx-background-color: #393939;
     -fx-control-inner-background: #393939;
+    -fx-font: 15 arial;
 }
 
 .text-area:focused {
@@ -62,6 +63,7 @@
     -fx-min-height: 85;
     -fx-max-height: 85;
     -fx-text-fill: white;
+    -fx-font: 14 arial;
     -fx-background-radius: 0, 0, 0, 0;
     -fx-background-color: #262626;
     -fx-border-width: 0 0 1 0;

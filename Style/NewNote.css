@@ -11,6 +11,7 @@
 .text-area {
     -fx-min-height: 450;
     -fx-control-inner-background: #262626;
+    -fx-font: 15 arial;
 }
 
 .button {

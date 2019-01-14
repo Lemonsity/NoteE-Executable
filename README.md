@@ -63,7 +63,3 @@ There is a lot of feature in this app
     
 ## Source Code
 This project is open source, you can find all the resources and code on my [GitHub](https://github.com/Lemonsity/NoteE)
-
-Make adjectment according to your need.
-
-If you have suggestions, pull request or Email are always welcomed
