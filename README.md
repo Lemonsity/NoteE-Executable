@@ -2,8 +2,12 @@
 
 ## Setup
 Thank you for downloading NoteE.
-The executable .jar file can be found on GitHUb under the link:
+The executable .jar file can be found on GitHub under the link:
 >https://github.com/Lemonsity/NoteE-Executable
+
+Before downloading the .zip file, make you you have Java Runtime Environment downloaded
+
+You can find JRE [here](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
 
 After extracting the .zip file, please make sure the following stays in the same folder:
 
@@ -11,6 +15,8 @@ After extracting the .zip file, please make sure the following stays in the same
 - Assets
 - Data
 - Style
+
+Please make sure __format.txt__ stays in the __Data__ folder
 
 Double click `NoteE.jar` to start the app
 
@@ -62,7 +68,7 @@ There is a lot of feature in this app
     - Note selected and editing is colour coded with __Yellow__
     
 ## Source Code
-This project is open source, you can find all the resources and code on my [GitHub](https://github.com/Lemonsity/NoteE)
+This project is open source, you can find all the resources and code [here](https://github.com/Lemonsity/NoteE)
 
 Make adjectment according to your need.
 
