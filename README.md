@@ -2,6 +2,9 @@
 
 ## Setup
 Thank you for downloading NoteE.
+
+NoteE is a general  note-taking app that is available on PC and Mac. 
+
 The executable .jar file can be found on GitHub under the link:
 >https://github.com/Lemonsity/NoteE-Executable
 
@@ -70,6 +73,8 @@ There is a lot of feature in this app
 ## Source Code
 This project is open source, you can find all the resources and code [here](https://github.com/Lemonsity/NoteE)
 
-Make adjectment according to your need.
+Make adjectment according to your need. 
+
+You can also complie your own version on different platform if you wish.
 
 If you have suggestions, pull request or Email are always welcomed
